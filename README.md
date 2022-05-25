@@ -2,7 +2,7 @@
 
 <h2> Eu sou o Jonas Emir! </h2>
 
-<p> ...Sou estudante de desenvolvimento e tenho quase 1 ano de experiência na área de tecnologia. As minhas experiências são por meio de diversos projetos de cursos sobre programação voltado para o Desenvolvimento Web. Atualmente estou cursando Análise e Desenvolvimento de Sistemas.  <p/>
+<p>  Sou estudante de desenvolvimento e tenho quase 1 ano de experiência na área de tecnologia. As minhas experiências são por meio de diversos projetos de cursos sobre programação voltado para o Desenvolvimento Web. Atualmente estou cursando Análise e Desenvolvimento de Sistemas.  <p/>
 
 
 </br>
