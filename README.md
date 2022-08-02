@@ -4,7 +4,7 @@
 
 
 
-<p>  Sou estudante de desenvolvimento e tenho quase 1 ano de experiência na área de tecnologia. </br> As minhas experiências são por meio de diversos projetos de cursos sobre programação. Atualmente estou cursando Análise e Desenvolvimento de Sistemas.  <p/>
+<p>  Sou estudante de desenvolvimento e tenho quase 1 ano de experiência na área de tecnologia. </br> As minhas experiências são por meio de diversos projetos de cursos sobre programação.  <p/>
 
 
 </br>
