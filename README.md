@@ -2,16 +2,28 @@
 
 <h2> Eu sou o Jonas Emir! </h2>
 
-<p>  Sou estudante de desenvolvimento e tenho quase 1 ano de experiência na área de tecnologia. As minhas experiências são por meio de diversos projetos de cursos sobre programação voltado para o Desenvolvimento Web. Atualmente estou cursando Análise e Desenvolvimento de Sistemas.  <p/>
+
+
+<p>  Sou estudante de desenvolvimento e tenho quase 1 ano de experiência na área de tecnologia. As minhas experiências são por meio de diversos projetos de cursos sobre programação. Atualmente estou cursando Análise e Desenvolvimento de Sistemas.  <p/>
 
 
 </br>
 
 
-<h2> Entre em contato comigo </h2>
+<h3> :envelope: Contato: </h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasemir/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jonasemir00@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](jonasemir00@gmail.com)
+
+<div align="center">
+ <a href="https://github.com/jonas-emir">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonas-emir&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+ 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-emir&layout=compact&langs_count=7&theme=cobalt"/>
+ 
+ 
+</div>
 
 :pushpin: Link para acessar meu Portfólio: https://portfolio-jonas-emir-francisco.netlify.app/
 </br>
