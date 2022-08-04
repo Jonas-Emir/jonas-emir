@@ -3,7 +3,7 @@
 <h2> Eu sou o Jonas :smiley: </h2>
 
 - :computer: Estudante de Análise e Desenvolvimento de Sistemas
-- :iphone: Desenvolvedor Mobile (Android e IOS)
+- :iphone: Desenvolvedor Mobile (Android e iOS)
 - :bulb: Fascinado por Tecnologia e Novas ideias
 
 <div align="center">
