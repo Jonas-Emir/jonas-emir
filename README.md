@@ -43,7 +43,7 @@
   
   </br>
   
-  <h3> :incoming_envelope: Contato :incoming_envelope: </h3>
+  <h2> :incoming_envelope: Contato :incoming_envelope: </h2>
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasemir/)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
