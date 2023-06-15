@@ -29,4 +29,4 @@
 
 </br>
 
-<a href="https://github.com/jonas-emir"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-emir&layout=compact&langs_count=7&theme=cobalt"/>
+<a href="https://github.com/jonas-emir"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-emir&layout=compact&langs_count=7&theme=react"/>
