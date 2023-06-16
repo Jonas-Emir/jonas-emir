@@ -2,31 +2,50 @@
 <h2> Eu sou o Jonas :smiley: </h2>
 
 - :computer: Estudante de Análise e Desenvolvimento de Sistemas | UNIVILLE
-- <> Desenvolvedor C# | JS | .NET | .NET CORE | API | DATABASE
-- :rocket: Fascinado por Tecnologia e Inovação
- </br>
+- <> Aprimorando habilidades em Entity Framework Core e Angular
+- :pushpin: Explorando novas tecnologias e desenvolvendo soluções de software.
+- :headphones: Fascinado por Tecnologia e Inovação
 
-## Ferramentas e Tecnologias
+## :rocket: &nbsp;Minhas Skills 
+
 <div style="display=flex">
-<img src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor" width="40" height="40"/>
-<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/net-5363130-4488919.png?f=avif&w=256" width="40" height="40"/> 
-<img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" width="40" height="40"/>
-<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/sql-database-4433606-3672393.png?f=avif&w=256" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.iconscout.com/icon/free/png-512/bootstrap-6-1175203.png?f=avif&w=256" width="40" height="40"/>
-<img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" width="40" height="40"/>
-<img src="https://cdn.iconscout.com/icon/free/png-512/sass-3629037-3030394.png?f=avif&w=256" width="40" height="40"/>
- <img src="https://cdn.iconscout.com/icon/free/png-256/logo-1889502-1597562.png?f=avif&w=128" width="40" height="40"/>
- <img src="https://cdn.iconscout.com/icon/free/png-256/visual-studio-code-3251603-2724650.png?f=avif&w=128" width="40" height="40"/>
- <img src="https://cdn.iconscout.com/icon/free/png-256/intellij-2-1175018.png?f=avif&w=128" width="40" height="40"/>
+
+**Aplicações e Dados**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=%23239120)
+![.Net](https://img.shields.io/badge/.NET-333333?style=flat&logo=.net&logoColor=5C2D91)
+![MicrosoftSQLServer](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)
+![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=F80000)
+
+ ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+ ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+ ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=hotpink)
+ ![Bootstrap](https://img.shields.io/badge/-bootstrap-333333?style=flat&logo=bootstrap&logoColor=238511FA)
+ ![Angular](https://img.shields.io/badge/angular-333333?style=flat&logo=angular&logoColor=CC2927)
+
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure&logoColor=007ACC)
+
+**Ferramentas de Desenvolvimento**
+
+ ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+ ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
+
 </div>
  </br>
 
- ## Contato 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasemir/)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jonasemir00@gmail.com)
+<div style="display=flex">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-emir&theme=react&hide_langs_below=1" />
+ <img align="center" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+</div>
 
-</br>
+ ## :earth_americas: Contato:
+ 
+[![Linkedin: Jonas Emir](https://img.shields.io/badge/-jonasemir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasemir/)](https://www.linkedin.com/in/jonasemir/)
+[![Gmail Badge](https://img.shields.io/badge/-jonasemir00@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonasemir00@gmail.com)](mailto:jonasemir00@gmail.com)
 
-<a href="https://github.com/jonas-emir"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-emir&layout=compact&langs_count=7&theme=react"/>
