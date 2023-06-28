@@ -3,7 +3,7 @@
 
 - :computer: Estudante de Análise e Desenvolvimento de Sistemas | UNIVILLE
 - <> Aprimorando habilidades em Entity Framework Core e Angular
-- :pushpin: Explorando novas tecnologias e desenvolvendo soluções de software.
+- :pushpin: Explorando novas tecnologias e desenvolvendo soluções de software
 - :headphones: Fascinado por Tecnologia e Inovação
 
 ## :rocket: &nbsp;Minhas Skills 
