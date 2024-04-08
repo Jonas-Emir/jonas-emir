@@ -2,7 +2,7 @@
 <h2> Eu sou o Jonas :smiley: </h2>
 
 - :computer: Estudante de Análise e Desenvolvimento de Sistemas | UNIVILLE
-- <> Aprimorando habilidades em Entity Framework Core e Angular
+- <> Aprimorando habilidades em Microserviços
 - :pushpin: Explorando novas tecnologias e desenvolvendo soluções de software
 - :headphones: Fascinado por Tecnologia e Inovação
 
