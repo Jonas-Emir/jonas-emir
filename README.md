@@ -17,13 +17,16 @@
 ![.Net](https://img.shields.io/badge/.NET-333333?style=flat&logo=.net&logoColor=5C2D91)
 ![MicrosoftSQLServer](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=F80000)
+![Docker](https://img.shields.io/badge/docker-333333?style=flat&logo=docker&logoColor=1572B6)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-333333?style=flat&logo=rabbitmq&logoColor=FF4500)
+
 
  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=hotpink)
  ![Bootstrap](https://img.shields.io/badge/-bootstrap-333333?style=flat&logo=bootstrap&logoColor=238511FA)
  ![Angular](https://img.shields.io/badge/angular-333333?style=flat&logo=angular&logoColor=CC2927)
-
+ 
 
 **DevOps**
 
