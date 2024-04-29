@@ -12,32 +12,29 @@
 
 **Aplicações e Dados**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=%23239120)
+![JavaScript](https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C-sharp&logoColor=%23239120)
 ![.Net](https://img.shields.io/badge/.NET-333333?style=flat&logo=.net&logoColor=5C2D91)
-![MicrosoftSQLServer](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=F80000)
+![MicrosoftSQLServer](https://img.shields.io/badge/-sqlserver-333333?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)
+![Oracle](https://img.shields.io/badge/-oracle-333333?style=flat&logo=oracle&logoColor=F80000)
 ![Docker](https://img.shields.io/badge/docker-333333?style=flat&logo=docker&logoColor=1572B6)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-333333?style=flat&logo=rabbitmq&logoColor=FF4500)
 
 
- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
- ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
- ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=hotpink)
+ ![Css](https://img.shields.io/badge/-css-333333?style=flat&logo=CSS3&logoColor=1572B6)
+ ![Sass](https://img.shields.io/badge/-sass-333333?style=flat&logo=SASS&logoColor=hotpink)
  ![Bootstrap](https://img.shields.io/badge/-bootstrap-333333?style=flat&logo=bootstrap&logoColor=238511FA)
  ![Angular](https://img.shields.io/badge/angular-333333?style=flat&logo=angular&logoColor=CC2927)
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+ ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
  
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure&logoColor=007ACC)
-
-**Ferramentas de Desenvolvimento**
-
- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
- ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
+![git](https://img.shields.io/badge/-git-333333?style=flat&logo=git)
+![gitHub](https://img.shields.io/badge/-gitHub-333333?style=flat&logo=github)
+![azure](https://img.shields.io/badge/-azure-333333?style=flat&logo=microsoftazure&logoColor=007ACC)
 
 </div>
  </br>
