@@ -13,6 +13,7 @@
 **Aplicações e Dados**
 
 ![JavaScript](https://img.shields.io/badge/-javascript-333333?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C-sharp&logoColor=%23239120)
 ![.Net](https://img.shields.io/badge/.NET-333333?style=flat&logo=.net&logoColor=5C2D91)
 ![MicrosoftSQLServer](https://img.shields.io/badge/-sqlserver-333333?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)
