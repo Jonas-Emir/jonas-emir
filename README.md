@@ -1,7 +1,6 @@
 <h1> Seja bem vindo(a)! </h1> 
-<h2> Eu sou o Jonas :smiley: </h2>
 
-- :computer: Estudante de Análise e Desenvolvimento de Sistemas | UNIVILLE
+- :computer: Análise e Desenvolvimento de Sistemas | UNIVILLE
 - <> Aprimorando habilidades em Microsserviços
 - :pushpin: Explorando novas tecnologias e desenvolvendo soluções de software
 - :headphones: Fascinado por Tecnologia e Inovação
