@@ -17,14 +17,25 @@
  
 </div>
 
-| ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-emir&theme=react&hide_langs_below=1&layout=compact&langs_count=10) | • :computer: Análise e Desenvolvimento de Sistemas \| UNIVILLE <br><br> • <> Desenvolvimento de software abrangendo back-end e front-end <br><br> • 🛠️ Adquirindo habilidades em Microsserviços <br><br> • 💬 Inglês Intermediário / Aprimorando |
-|:---|:---|
+### Um pouco sobre mim
 
+<p align="left">
+  Desenvolvedor Fullstack com especialização na construção de APIs RESTful com C# e o ecossistema .NET. No front-end, possuo também experiência no desenvolvimento de aplicações web responsivas utilizando Typescript e Angular.
+</p>
+
+<p align="left">
+  Minha atuação técnica é guiada por boas práticas de arquitetura e tenho conhecimentos para containerização de aplicações com Docker, orquestração com Kubernetes e o uso de sistemas de mensageria como RabbitMQ e Kafka. Sou um grande adepto dos princípios de Clean Code e SOLID para garantir a entrega de soluções manuteníveis.
+</p>
+
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas | UNIVILLE.
+- 📚 **Cursos:** Aprimoramento contínuo com foco em Arquitetura .NET e Computação em Nuvem (Cloud Computing).
+- 💬 **Idiomas:** Inglês (Intermediário / Em aprimoramento).
 
 <div style="display: flex; align-items: center;">
+
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-emir&theme=react&hide_langs_below=1&layout=compact&langs_count=5)
  
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasemir/)](https://www.linkedin.com/in/jonasemir/)
 [![Portfolio](https://img.shields.io/badge/-Portfólio-24292E?style=for-the-badge&logo=google-chrome&logoColor=white&link=https://portfolio-jonasemir.vercel.app/)](https://portfolio-jonasemir.vercel.app/)
-
 </div>
 
