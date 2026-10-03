@@ -1,6 +1,6 @@
 ## About Me & What I Do
 
-Building resilient corporate systems and solving complex real-world challenges through modern software architecture. My approach to engineering combines technical depth with the high-discipline and strategic mindset forged during my time as an Army Officer.
+Building resilient corporate systems and solving complex real-world challenges through modern software architecture. My approach to engineering combines technical depth with the high-discipline and strategic mindset forged during my Reserve Officer Training and throughout my professional journey.
 
 **Here is what I can implement and bring to your team:**
 
