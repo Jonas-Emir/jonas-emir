@@ -13,13 +13,12 @@ Building resilient corporate systems and solving complex real-world challenges t
 
 <div align="center">
   <p><i>Check out my portfolio below. The public repositories here are developed for study, training, and academic purposes.<br>My corporate systems, commercial work, and closed-source personal projects are securely hosted in private repositories.</i></p>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Pointing Down" width="45" />
   <br>
   <a href="https://www.linkedin.com/in/jonasemir/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://portfolio-jonasemir.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%20%26%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/More%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
